@@ -1,6 +1,6 @@
 
 ## About me
-I am a first-year C.S. student Boston University ('26). My passions are full-stack web and software development. I am especially intereted in the fields of artificial intelligence and hope to explore it in the future.
+I am a first-year C.S. student Boston University ('26). My passions are full-stack web and software development. I am especially intereted in the fields of artificial intelligence and hope to explore it in the future. In the future I hope to start writing [blog posts](https://sai-nayunipati.github.io/portfolio/blog.html).
 
 I have built projects using:
 - Bootstrap
