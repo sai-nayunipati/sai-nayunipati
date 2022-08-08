@@ -1,0 +1,1 @@
+I am a first-year C.S. student Boston University ('26). My passions are full-stack web and software development. I am especially intereted in the fields of artificial intelligence and hope to explore it in the future.
