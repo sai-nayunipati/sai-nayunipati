@@ -1,6 +1,6 @@
 
 ## About me
-I am a first-year C.S. student Boston University ('26). My passions are full-stack web and software development. I am especially intereted in the fields of artificial intelligence and hope to explore it in the future. Soon I hope to start writing [blog posts](https://sai-nayunipati.github.io/portfolio/blog.html).
+I'm a C.S. student at Boston University ('26). I am passionate about full-stack web development. Along with GitHub, I use [LinkedIn](https://www.linkedin.com/in/sai-nayunipati-157609224/) and maintain a [portfolio](https://sai-nayunipati.github.io/portfolio/index.html). I can be reached at [sai.nayunipati@gmail.com](mailto:sai.nayunipati@gmail.com).
 
 I have built projects using:
 - Bootstrap
