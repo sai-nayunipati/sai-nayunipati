@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sai Nayunipati</h1>
+<h1 align="center">I'm Sai Nayunipati</h1>
 <h3 align="center">A C.S. student at Boston University passionate about software engineering.</h3>
 
 - Portfolio/Blog [https://sai-nayunipati.github.io/portfolio/index.html](https://sai-nayunipati.github.io/portfolio/index.html)
