@@ -6,7 +6,7 @@
 
 - Email **sai.nayunipati@gmail.com**
 
-- Devpost: [https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/sain994)
+- Devpost: [https://devpost.com/sain994]([https://devpost.com/sain994](https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
