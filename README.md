@@ -6,6 +6,8 @@
 
 - Email **sai.nayunipati@gmail.com**
 
+- Devpost: [https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sai_nayunipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sai-nayunipati" height="30" width="40" /></a>
