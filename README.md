@@ -19,9 +19,9 @@
 
 ## Highlighted
 
-- **[Adi - AI Advertisement Generator](https://github.com/neezacoto/Adi-ai-ads):** BostonHacks2022 "Best Overall Hack". Adi is a mobile application that turns a few keyword inputs into professional sales copy. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end.
+- **[Adi - AI Advertisement Generator](https://github.com/neezacoto/Adi-ai-ads):** BostonHacks2022's "Best Overall Hack". Adi is a mobile application that turns a few keyword inputs into professional sales copy. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end.
 
-- **[Greengle - Amazon Order Carbon Emission Calculator](https://github.com/AdiBhan/Greengle):** Winner of "Best Code" award at *BU Spark!* mini-hackathon. The companion site functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
+- **[Greengle - Amazon Order Carbon Emission Calculator](https://github.com/AdiBhan/Greengle):** Winner of the "Best Code" award at *BU Spark!*'s mini-hackathon. The companion site functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
 
 - **[E-Commerce Site](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/13.%20Mock%20E-Commerce%20Site):** A mock e-commerce site that pulls example products from a MySQL database. The site supports adding items to a cart.
 
