@@ -19,8 +19,10 @@
 
 ## Highlighted
 
-- **[E-Commerce site](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/13.%20Mock%20E-Commerce%20Site):** A mock e-commerce site that pulls example products from a MySQL database. The site supports adding items to a cart. (*Bootstrap, Flask, MySQL*)
+- **[Adi - AI Advertisement Generator](https://github.com/neezacoto/Adi-ai-ads):** BostonHacks2022 "Best Overall Hack". Adi is a mobile application that turns a few keyword inputs into professional sales copy. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end.
 
-- **[Talluri Technologies](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/17.%20Remade%20Talluri%20Technologies%20Website):** I redesigned a static [website](http://talluritechnologies.com/) belonging to a company I interned for. This was an exercise in front-end development and designing a good user interface. (*Bootstrap, jQuery*)
+- **[Greengle - Amazon Order Carbon Emission Calculator](https://github.com/AdiBhan/Greengle):** Winner of "Best Code" award at *BU Spark!* mini-hackathon. The companion site functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
 
-- **[Chess Player API](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/15.%20API%20With%20Flask%20and%20MongoDB):** I used the "Scrapy" Python library to scrape [chess.com](https://www.chess.com/players) for a list of the world's best chess players and their relevant statistics. I stored the data in MongoDB, and created a Flask API which can both read and write to the database. (*Scrapy, Flask, MongoDB*)
+- **[E-Commerce site](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/13.%20Mock%20E-Commerce%20Site):** A mock e-commerce site that pulls example products from a MySQL database. The site supports adding items to a cart.
+
+- **[Grandmaster API](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/15.%20API%20With%20Flask%20and%20MongoDB):** I used the "Scrapy" Python library to scrape [chess.com](https://www.chess.com/players) for a list of the world's best chess players and their relevant statistics. I stored the data in MongoDB, and created a Flask API which can both read and write to the database.
