@@ -23,6 +23,6 @@
 
 - **[Greengle - Amazon Order Carbon Emission Calculator](https://github.com/AdiBhan/Greengle):** Winner of "Best Code" award at *BU Spark!* mini-hackathon. The companion site functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
 
-- **[E-Commerce site](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/13.%20Mock%20E-Commerce%20Site):** A mock e-commerce site that pulls example products from a MySQL database. The site supports adding items to a cart.
+- **[E-Commerce Site](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/13.%20Mock%20E-Commerce%20Site):** A mock e-commerce site that pulls example products from a MySQL database. The site supports adding items to a cart.
 
 - **[Grandmaster API](https://github.com/sai-nayunipati/Hallmark-Induction-Projects/tree/main/Projects/15.%20API%20With%20Flask%20and%20MongoDB):** I used the "Scrapy" Python library to scrape [chess.com](https://www.chess.com/players) for a list of the world's best chess players and their relevant statistics. I stored the data in MongoDB, and created a Flask API which can both read and write to the database.
