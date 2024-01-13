@@ -1,6 +1,6 @@
 
 <h1 align="center">I'm Sai Nayunipati</h1>
-<h3 align="center">Hobbyist Developer and C.S. student at Boston University.</h3>
+<h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU</h3>
 
 - Email **sai.nayunipati@gmail.com**
 
