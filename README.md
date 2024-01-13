@@ -2,8 +2,6 @@
 <h1 align="center">I'm Sai Nayunipati</h1>
 <h3 align="center">Hobbyist Developer and C.S. student at Boston University.</h3>
 
-- Portfolio/Blog [https://sai-nayunipati.github.io/portfolio/index.html](https://sai-nayunipati.github.io/portfolio/index.html)
-
 - Email **sai.nayunipati@gmail.com**
 
 - Devpost: [https://devpost.com/sain994](https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
