@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU | <a href="mailto:sai.nayunipati@gmail.com">sai.nayunipati@gmail.com</a> | <a href="https://www.linkedin.com/in/sai-nayunipati-157609224/">LinkedIn</a></h3>
+<h3 align="center">SWE Intern @ Jacobs | C.S. + Stats @ BU '25 | <a href="mailto:sai.nayunipati@gmail.com">sai.nayunipati@gmail.com</a> | <a href="https://www.linkedin.com/in/sai-nayunipati-157609224/">LinkedIn</a></h3>
 
 I'm an entry-level software developer specializing in .NET, MERN, and Python. My past projects include desktop apps, mobile apps, and full-stack websites. I'm currently working as a software engineering intern at the Jacobs Software Engineering Center (JSEC) throughout the summer and school year, and I also have worked as a web development intern at Nimble Property.
 
