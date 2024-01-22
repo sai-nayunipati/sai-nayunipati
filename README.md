@@ -1,6 +1,5 @@
-
 <h1 align="center">I'm Sai Nayunipati</h1>
-<h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU | [sai.nayunipati@gmail.com](mailto:sai.nayunipati@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sai-nayunipati-157609224/)</h3>
+<h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU | <a href="mailto:sai.nayunipati@gmail.com">sai.nayunipati@gmail.com</a> | <a href="https://www.linkedin.com/in/sai-nayunipati-157609224/">LinkedIn</a></h3>
 
 - Devpost: [https://devpost.com/sain994](https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
