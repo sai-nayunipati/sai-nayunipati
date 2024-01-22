@@ -1,16 +1,8 @@
 
 <h1 align="center">I'm Sai Nayunipati</h1>
-<h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU</h3>
-
-- Email **sai.nayunipati@gmail.com**
+<h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU | [sai.nayunipati@gmail.com](mailto:sai.nayunipati@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sai-nayunipati-157609224/)</h3>
 
 - Devpost: [https://devpost.com/sain994](https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sai_nayunipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sai-nayunipati" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sai-nayunipati-157609224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-nayunipati" height="30" width="40" /></a>
-</p>
 
 ## About Me
 I'm an entry-level software developer specializing in .NET, MERN, and Python. My past projects include desktop apps, mobile apps, and full-stack websites. I'm currently working as a software engineering intern at the Jacobs Software Engineering Center (JSEC) throughout the summer and school year, and I also have worked as a web development intern at Nimble Property.
