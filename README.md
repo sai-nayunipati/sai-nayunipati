@@ -1,9 +1,6 @@
-<h1 align="center">I'm Sai Nayunipati</h1>
+<h1 align="center">About Me</h1>
 <h3 align="center">SWE Intern @ Jacobs | CS + Stats @ BU | <a href="mailto:sai.nayunipati@gmail.com">sai.nayunipati@gmail.com</a> | <a href="https://www.linkedin.com/in/sai-nayunipati-157609224/">LinkedIn</a></h3>
 
-- Devpost: [https://devpost.com/sain994](https://devpost.com/sain994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
-## About Me
 I'm an entry-level software developer specializing in .NET, MERN, and Python. My past projects include desktop apps, mobile apps, and full-stack websites. I'm currently working as a software engineering intern at the Jacobs Software Engineering Center (JSEC) throughout the summer and school year, and I also have worked as a web development intern at Nimble Property.
 
 I am graduating in the spring of 2025 with a dual major in computer science and statistics. My elective courses include artificial intelligence, data science, and functional programming. I'm also an officer in Boston University's C.S. honor society (Upsilon Pi Epsilon). To gain membership, I created a JavaScript automation to streamline the organization's Google Form attendance tracking. My duties involve marketing outreach, coordinating professional events, and managing our website. I'm providing requirements and contributing development work to a team developing the chapter's new React website.
